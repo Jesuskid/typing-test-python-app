@@ -2,6 +2,8 @@
 
 
 ##Introdution
+
+
 This is a simple desktop app built with python and tkinter for a typing speed test. The app calculates the number of words you can type in a minute.
 
 **Installation**
